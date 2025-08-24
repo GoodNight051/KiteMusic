@@ -1,0 +1,38 @@
+/* 应用程序外置框架样式 */
+.application-framework{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+  background-size: 400% 400%;
+  animation: Gradient 10s linear infinite;
+}
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 核心样式 */
+.application-load{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  background-size: 100% 100%;
+}
+.application-core{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: none;
+  background-size: 100% 100%;
+}

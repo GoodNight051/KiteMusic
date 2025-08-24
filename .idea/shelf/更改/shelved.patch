@@ -1,0 +1,499 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1755955639544)
++++ b/.idea/.gitignore	(date 1755955639544)
+@@ -0,0 +1,3 @@
++# 默认忽略的文件
++/shelf/
++/workspace.xml
+Index: .idea/AndroidProjectSystem.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/AndroidProjectSystem.xml b/.idea/AndroidProjectSystem.xml
+new file mode 100644
+--- /dev/null	(date 1755960788807)
++++ b/.idea/AndroidProjectSystem.xml	(date 1755960788807)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AndroidProjectSystem">
++    <option name="providerId" value="com.android.tools.idea.GradleProjectSystem" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+new file mode 100644
+--- /dev/null	(date 1755960788525)
++++ b/.idea/.name	(date 1755960788525)
+@@ -0,0 +1,1 @@
++音域
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1755966497351)
++++ b/.idea/misc.xml	(date 1755966497351)
+@@ -0,0 +1,263 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="ProjectInspectionProfilesVisibleTreeState">
++    <entry key="Project Default">
++      <profile-state>
++        <expanded-state>
++          <State>
++            <id>Abstraction issuesJava</id>
++          </State>
++          <State>
++            <id>AccessibilityHTML</id>
++          </State>
++          <State>
++            <id>Android</id>
++          </State>
++          <State>
++            <id>Android Lint: Correctness</id>
++          </State>
++          <State>
++            <id>Android Lint: Internationalization</id>
++          </State>
++          <State>
++            <id>Android Lint: Interoperability</id>
++          </State>
++          <State>
++            <id>Android Lint: Performance</id>
++          </State>
++          <State>
++            <id>Android Lint: Productivity</id>
++          </State>
++          <State>
++            <id>Android Lint: Security</id>
++          </State>
++          <State>
++            <id>C/C++</id>
++          </State>
++          <State>
++            <id>Class structureJava</id>
++          </State>
++          <State>
++            <id>ClassNaming conventionsJava</id>
++          </State>
++          <State>
++            <id>Cloning issuesJava</id>
++          </State>
++          <State>
++            <id>Code style issuesJava</id>
++          </State>
++          <State>
++            <id>Compiler issuesJava</id>
++          </State>
++          <State>
++            <id>Control flow issuesJava</id>
++          </State>
++          <State>
++            <id>Declaration redundancyJava</id>
++          </State>
++          <State>
++            <id>EditorConfig</id>
++          </State>
++          <State>
++            <id>EmbeddedPerformanceJava</id>
++          </State>
++          <State>
++            <id>Error handlingJava</id>
++          </State>
++          <State>
++            <id>General</id>
++          </State>
++          <State>
++            <id>GeneralC/C++</id>
++          </State>
++          <State>
++            <id>Gradle</id>
++          </State>
++          <State>
++            <id>Groovy</id>
++          </State>
++          <State>
++            <id>HTML</id>
++          </State>
++          <State>
++            <id>ImportsJava</id>
++          </State>
++          <State>
++            <id>Inheritance issuesJava</id>
++          </State>
++          <State>
++            <id>Internationalization</id>
++          </State>
++          <State>
++            <id>JSON and JSON5</id>
++          </State>
++          <State>
++            <id>JUnit</id>
++          </State>
++          <State>
++            <id>JVM languages</id>
++          </State>
++          <State>
++            <id>Java</id>
++          </State>
++          <State>
++            <id>Java 10Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 11Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 14Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 15Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 16Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 21Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 23Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 5Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 7Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 8Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java 9Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>Java interop issuesKotlin</id>
++          </State>
++          <State>
++            <id>Java language level issuesJava</id>
++          </State>
++          <State>
++            <id>Java language level migration aidsJava</id>
++          </State>
++          <State>
++            <id>JavadocJava</id>
++          </State>
++          <State>
++            <id>Kotlin</id>
++          </State>
++          <State>
++            <id>Language injection</id>
++          </State>
++          <State>
++            <id>LoggingJVM languages</id>
++          </State>
++          <State>
++            <id>MemoryJava</id>
++          </State>
++          <State>
++            <id>MethodNaming conventionsJava</id>
++          </State>
++          <State>
++            <id>Modularization issuesJava</id>
++          </State>
++          <State>
++            <id>Naming conventionsJava</id>
++          </State>
++          <State>
++            <id>Nullability problemsProbable bugsJava</id>
++          </State>
++          <State>
++            <id>Numeric issuesJava</id>
++          </State>
++          <State>
++            <id>Packaging issuesJava</id>
++          </State>
++          <State>
++            <id>PerformanceJava</id>
++          </State>
++          <State>
++            <id>PortabilityJava</id>
++          </State>
++          <State>
++            <id>Potentially confusing code constructsGroovy</id>
++          </State>
++          <State>
++            <id>Probable bugsGradle</id>
++          </State>
++          <State>
++            <id>Probable bugsGroovy</id>
++          </State>
++          <State>
++            <id>Probable bugsJava</id>
++          </State>
++          <State>
++            <id>Properties files</id>
++          </State>
++          <State>
++            <id>Redundant constructsKotlin</id>
++          </State>
++          <State>
++            <id>SecurityJava</id>
++          </State>
++          <State>
++            <id>Serialization issuesJava</id>
++          </State>
++          <State>
++            <id>ShrinkerAndroid</id>
++          </State>
++          <State>
++            <id>Static Analysis ToolsC/C++</id>
++          </State>
++          <State>
++            <id>Style issuesKotlin</id>
++          </State>
++          <State>
++            <id>Test frameworksJVM languages</id>
++          </State>
++          <State>
++            <id>TestNGJava</id>
++          </State>
++          <State>
++            <id>Threading issuesGroovy</id>
++          </State>
++          <State>
++            <id>Threading issuesJava</id>
++          </State>
++          <State>
++            <id>Verbose or redundant code constructsJava</id>
++          </State>
++          <State>
++            <id>VisibilityJava</id>
++          </State>
++        </expanded-state>
++        <selected-state>
++          <State>
++            <id>User defined</id>
++          </State>
++        </selected-state>
++      </profile-state>
++    </entry>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/build/classes" />
++  </component>
++  <component name="ProjectType">
++    <option name="id" value="Android" />
++  </component>
++  <component name="ScriptDefinitionSettings">
++    <option name="settings">
++      <list>
++        <ScriptDefinitionSetting>
++          <option name="definitionId" value="org.jetbrains.kotlin.mainKts.MainKtsScript" />
++        </ScriptDefinitionSetting>
++        <ScriptDefinitionSetting>
++          <option name="definitionId" value="ideBundledScriptDefinition" />
++        </ScriptDefinitionSetting>
++      </list>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/migrations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/migrations.xml b/.idea/migrations.xml
+new file mode 100644
+--- /dev/null	(date 1755960788877)
++++ b/.idea/migrations.xml	(date 1755960788877)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectMigrations">
++    <option name="MigrateToGradleLocalJavaHome">
++      <set>
++        <option value="$PROJECT_DIR$" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/runConfigurations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+new file mode 100644
+--- /dev/null	(date 1755960788882)
++++ b/.idea/runConfigurations.xml	(date 1755960788882)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RunConfigurationProducerService">
++    <option name="ignoredProducers">
++      <set>
++        <option value="com.intellij.execution.junit.AbstractAllInDirectoryConfigurationProducer" />
++        <option value="com.intellij.execution.junit.AllInPackageConfigurationProducer" />
++        <option value="com.intellij.execution.junit.PatternConfigurationProducer" />
++        <option value="com.intellij.execution.junit.TestInClassConfigurationProducer" />
++        <option value="com.intellij.execution.junit.UniqueIdConfigurationProducer" />
++        <option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer" />
++        <option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer" />
++        <option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/deploymentTargetSelector.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/deploymentTargetSelector.xml b/.idea/deploymentTargetSelector.xml
+new file mode 100644
+--- /dev/null	(date 1755960788888)
++++ b/.idea/deploymentTargetSelector.xml	(date 1755960788888)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="deploymentTargetSelector">
++    <selectionStates>
++      <SelectionState runConfigName="app">
++        <option name="selectionMode" value="DROPDOWN" />
++      </SelectionState>
++    </selectionStates>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1755960788826)
++++ b/.idea/compiler.xml	(date 1755960788826)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <bytecodeTargetLevel target="21" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/deviceManager.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/deviceManager.xml b/.idea/deviceManager.xml
+new file mode 100644
+--- /dev/null	(date 1755960788833)
++++ b/.idea/deviceManager.xml	(date 1755960788833)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="DeviceTable">
++    <option name="columnSorters">
++      <list>
++        <ColumnSorterState>
++          <option name="column" value="Name" />
++          <option name="order" value="ASCENDING" />
++        </ColumnSorterState>
++      </list>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+new file mode 100644
+--- /dev/null	(date 1755965645895)
++++ b/.idea/gradle.xml	(date 1755965645895)
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
++  <component name="GradleSettings">
++    <option name="linkedExternalProjectsSettings">
++      <GradleProjectSettings>
++        <option name="testRunner" value="CHOOSE_PER_TEST" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
++        <option name="modules">
++          <set>
++            <option value="$PROJECT_DIR$" />
++            <option value="$PROJECT_DIR$/app" />
++          </set>
++        </option>
++      </GradleProjectSettings>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1755966497353)
++++ b/.idea/vcs.xml	(date 1755966497353)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CommitMessageInspectionProfile">
++    <profile version="1.0">
++      <inspection_tool class="CommitMessageSpellChecking" enabled="false" level="TYPO" enabled_by_default="false" />
++    </profile>
++  </component>
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/kotlinc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/kotlinc.xml b/.idea/kotlinc.xml
+new file mode 100644
+--- /dev/null	(date 1755966497361)
++++ b/.idea/kotlinc.xml	(date 1755966497361)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Kotlin2JsCompilerArguments">
++    <option name="moduleKind" value="plain" />
++  </component>
++  <component name="Kotlin2JvmCompilerArguments">
++    <option name="jvmTarget" value="1.8" />
++  </component>
++</project>
+\ No newline at end of file

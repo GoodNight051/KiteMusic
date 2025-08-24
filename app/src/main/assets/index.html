@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NONE</title>
+    <meta charset="utf-8"/>
+    <script src="plugins/jquery/jquery-3.7.1.min.js"></script>
+    <!-- TODO:核心样式载入 -->
+    <link rel="stylesheet" href="styles/core.css">
+    <!-- TODO:默认竖屏样式 -->
+    <link rel="stylesheet" href="styles/mods/Vertical.css" id="SrceenFork">
+  </head>
+  <body>
+    <!-- 应用程序视图框架 -->
+    <div class="application-framework">
+      <!-- TODO:在此载入必需资源 -->
+      <!-- TODO:全局数据优先载入 -->
+      <script src="resoures/Groups/GroupEnum.js"></script>
+      <script src="resoures/Groups/GroupStatic.js"></script>
+      <script src="resoures/Groups/GroupVariable.js"></script>
+      <script src="resoures/models/UserSetting.js"></script>
+      <script src="resoures/models/ThemeConfig.js"></script>
+      <!-- TODO:其次载入必需脚本 -->
+      <script src="scripts/utils/logger.js"></script>
+      <script src="scripts/utils/import.js"></script>
+      <script src="scripts/utils/utils.js"></script>
+      <script src="scripts/utils/view.js"></script>
+      <!-- 这是页面初始化页面 -->
+      <div class="application-load">
+        <!-- TODO:这里写应用加载界面 -->
+        Hello,World!
+        <!-- TODO:待办... -->
+        
+        <!-- TODO:加载界面载入模块信息 -->
+        <script src="resoures/models/ModInfomation.js"></script>
+        <!-- TODO:这里进行各种初始化操作 -->
+        <script src="plugins/layui/layui.js"></script>
+        <script src="scripts/inits/staticInit.js"></script>
+        <script src="scripts/inits/coreInit.js"></script>
+        <script src="scripts/inits/listenceScreen.js"></script>
+        <script src="scripts/inits/modulesInit.js"></script>
+      </div>
+      <!-- 这是应用程序主要页面框架 -->
+      <div class="application-core">
+        
+        <!-- TODO:待办... -->
+        
+      </div>
+    </div>
+    <script src="scripts/main.js"></script>
+  </body>
+</html>
